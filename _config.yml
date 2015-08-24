@@ -3,6 +3,7 @@ title: Divest DU
 author: Lucio Franco
 email: lucio.franco@du.edu
 url: "https://LucioFranco.github.io/divest-du" # the base hostname & protocol for your site
+baseurl: "/Divest-DU"
 
 # Build settings
 markdown: kramdown
