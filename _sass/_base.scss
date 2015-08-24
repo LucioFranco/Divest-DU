@@ -1,0 +1,53 @@
+$nav-color: rgb(245, 143, 17);
+
+
+/**
+ * Basic styling
+ */
+body {
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+    line-height: $base-line-height;
+    font-weight: 300;
+    color: $text-color;
+    background-color: $background-color;
+    -webkit-text-size-adjust: 100%;
+}
+
+.site-footer {
+  ul {
+    list-style: none;
+  }
+  color: black;
+  a {
+    color: black;
+  }
+  background-color: rgb(19, 146, 238);
+
+  border-top: solid black 1px;
+}
+
+.site-nav {
+  background-color: $nav-color;
+  .navbar-brand {
+    span {
+      display: inline-block;
+    }
+
+    img {
+      display: inline-block;
+      width: 15%;
+      vertical-align: center;
+      margin-bottom: 3px;
+    }
+  }
+}
+
+.home {
+  margin: 10px;
+  #carousel {
+    margin-right: 40px;
+    border: solid $nav-color 1px;
+
+  }
+}
