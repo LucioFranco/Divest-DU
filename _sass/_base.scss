@@ -27,6 +27,10 @@ body {
   border-top: solid black 1px;
 }
 
+.navbar {
+  border-radius: 0px !important;
+}
+
 .site-nav {
   background-color: $nav-color;
   .navbar-brand {
