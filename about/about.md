@@ -1,11 +1,29 @@
 ---
 layout: page
-title: About Divestment
 permalink: /about/
 ---
 
+# Divestment
 * The brief history of divestment begins with its birth during the Anti-Apartheid Movement. In the 1970s and 1980s, many US and European institutions divested from all companies doing business with the apartheid regime. The campaign proved immensely successful, with Nelson Mandela crediting it as one of the most significant factors that led to the fall of apartheid. Later, divestment was used to target ‘big tobacco’ with the purpose of morally stigmatizing political contributions from the industry.
+
 * A decade ago, the University of Denver joined the divestment movement by divesting from companies involved with the Sudanese government. In fact, DU was one of the first 40 or 50 Universities to divest, helping to set the standard upon which other Universities quickly followed. To be clear, this divestiture was no small financial feat. Rather, the University of Denver divested 17,300 shares of directly-held stock worth over $1 million from a French oil field services company ranked fifth on the Sudan Divestment Task Force list of highest offending companies. The University additionally asked investment managers of commingled funds to evaluate their portfolios and divest from companies identified as offenders. Craig Woody, Vice Chancellor for Business and Financial affairs, explained that their decision to divest was driven by evidence demonstrating divestment as an effective strategy for social change.
+
 * Today, divestment has been reborn as one of the most prominent strategies to effectively remediate climate change; it seeks to target carbon emissions at the source to preemptively prevent irreversible climate destruction. More specifically, divestment targets the fossil fuel industry. This focus of the divestment movement can be summed up with three numbers outlined in Bill McKibben’s 2012 Rolling Stone’s Article, “Global Warming's Terrifying New Math.”
+
 * The first number is two degrees celsius. One of the few issues of climate change that the international community has agreed upon is that anything greater than a two degree increase in global temperatures will have catastrophic consequences. It is important to note that this agreement is by its very nature conservative, as it had to garner international support. The second number is 565 gigatons of carbon emissions. In 2012, this was the amount of carbon humanity could emit before passing the two degree threshold. It can be understood as the ‘safe’ number of global carbon emissions. The third and most ominous number is 2,975 gigatons. It describes the amount of carbon already embodied in the proven fossil fuel reserves owned by the coal, oil, and gas industry in 2012. This number can be understood as the quantity of carbon we are already planning to burn.
+
 * Thus, the fossil fuel industry owns nearly five times the amount of carbon that we can safely burn. It is this ominous understanding upon which divestment is rooted. If we are to ensure a safe and hospitable planet for future generations to enjoy, the fossil fuel industry must be forced to skip out on the profits of burning these reserves, something accountants refer to as ‘stranded assets.’ Divestment is the strategy that has been developed to ensure these companies do so.
+
+# Divest DU
+
+## Divest DU Background and Mission
+
+Divest DU was formed in January of 2014 by a group of passionate students concerned about the future of the world’s climate system. These students decided to attend the University of Denver in part because of the institution’s vision of being a “great private University dedicated to the public good,” and found the school’s continued investment and support of the fossil fuel industry to be irreconcilable with this mission. Believing that it is the role of Universities to be moral and social leaders, these students set forth to encourage the University of Denver to reconcile its investment practices with a socially responsible endowment
+
+## Our Ask
+
+Our ask from the University of Denver is two fold. First, we ask that that DU immediately freeze any new investment in fossil-fuel companies. Second, we ask that the University of Denver divest from direct and indirect ownership of fossil fuel stocks, public equities, and corporate bonds over five years. More specifically, we ask that the University of Denver divests from the top 100 coal companies and the top 100 oil and gas companies, as defined by the potential carbon emissions from their reserves. These 200 entities own the vast majority of carbon reserves, as the companies who fall beyond these 200 entities control less than 0.15 GtCO2 in reserves. Thus, limiting divestment to this list  achieves the mission of morally stigmatizing the fossil fuel industry while making the divestment process more manageable, viable, and realistic. The comprehensive list outlining the 200 worst offenders can be viewed [here](https://docs.google.com/spreadsheets/d/1QgU9VN23JaNh2B0pb9eoHM5EMozsznaojpIulQuljDg/edit#gid=1215979048)
+
+# Divest DU Report
+
+The complete report and proposal delivered to Chancellor Chopp in May of 2015 can be downloaded here
