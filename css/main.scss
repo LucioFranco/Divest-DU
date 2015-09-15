@@ -27,7 +27,53 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+.page-header {
+  margin-top: 10px;
+  text-align: center;
+}
 
+.about {
+  ul {
+    list-style-type: none;;
+  }
+}
+
+.list-inline > li {
+  padding-left: 40px !important;
+  padding-right: 40px !important;
+}
+
+.getinvolved {
+  padding-top: 10%;
+  padding-bottom: 40%;
+
+  p {
+    padding-bottom: 20px;
+  }
+}
+
+.page {
+  padding-right: 9%;
+  padding-left: 9%;
+  .page-content {
+    padding-right: 6%;
+    padding-left: 6%;
+  }
+
+
+  ul h2 {
+    font-size: 1.5em;
+    font-weight: 700;
+  }
+  ul li {
+    font-size: 1em;
+    font-wieght: 200;
+  }
+}
+
+.no-style {
+  list-style-type: none;
+}
 
 // Using media queries with like this:
 // @include media-query($on-palm) {
